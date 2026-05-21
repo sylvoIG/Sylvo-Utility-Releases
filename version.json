@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "title": "Sylvo Utility 1.0.0",
+  "version": "1.0.1",
+  "title": "Sylvo Utility 1.0.1",
   "downloadUrl": "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/latest",
-  "changelog": "Initial public update channel."
+  "changelog": "- Removed redundant general.reg toggle (tweaks are split into individual controls)\n- Removed all MMCSS tweaks (Enable, Disable, Optimal)\n- Registry sections now load only from General Windows tweaks.reg\n- Fixed excluded tweak paths so bundled registry files no longer show duplicate toggles\n- Installer ships obfuscated SylvoUtility.dll"
 }
