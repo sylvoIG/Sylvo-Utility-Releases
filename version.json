@@ -2,5 +2,5 @@
   "version": "1.0.3",
   "title": "Sylvo Utility 1.0.3",
   "downloadUrl": "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/latest",
-  "changelog": "Fixed in-app update install"
+  "changelog": "Fixed in-app update install, freezing on install, and repeat update prompts after updating"
 }
