@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "title": "Sylvo Utility 1.0.3",
-  "downloadUrl": "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/latest",
-  "changelog": "Fixed in-app update install, freezing on install, and repeat update prompts after updating"
+    "version":  "1.0.4",
+    "title":  "Sylvo Utility 1.0.4",
+    "downloadUrl":  "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/download/v1.0.4/SylvoUtility-Setup.exe",
+    "changelog":  "- Fixed Sylvo Performance power plan import, rename, and activation\n- Removes duplicate Falcon/Ryvex power plans on apply\n- Improved NVIDIA general.nip profile apply reliability"
 }
