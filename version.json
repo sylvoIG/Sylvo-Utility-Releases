@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.5",
-    "title":  "Sylvo Utility 1.0.5",
-    "downloadUrl":  "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/download/v1.0.5/SylvoUtility-Setup.exe",
-    "changelog":  "- Reliable Sylvo Performance power plan import and activation (admin elevation)\n- Removes duplicate legacy power plans on apply\n- Improved NVIDIA general.nip profile apply reliability"
+    "version":  "1.0.6",
+    "title":  "Sylvo Utility 1.0.6",
+    "downloadUrl":  "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/download/v1.0.6/SylvoUtility-Setup.exe",
+    "changelog":  "- Fixed Discord OAuth after obfuscation (embedded credentials load reliably)\n- Reliable Sylvo Performance power plan import and activation\n- Improved NVIDIA general.nip profile apply reliability"
 }
