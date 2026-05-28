@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.6",
-    "title":  "Sylvo Utility 1.0.6",
-    "downloadUrl":  "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/download/v1.0.6/SylvoUtility-Setup.exe",
-    "changelog":  "- Fixed Discord OAuth after obfuscation (embedded credentials load reliably)\n- Reliable Sylvo Performance power plan import and activation\n- Improved NVIDIA general.nip profile apply reliability"
+    "version":  "1.0.7",
+    "title":  "Sylvo Utility 1.0.7",
+    "downloadUrl":  "https://github.com/sylvoIG/Sylvo-Utility-Releases/releases/download/v1.0.7/SylvoUtility-Setup.exe",
+    "changelog":  "- Grouped Sylvo Optimize tweaks into 34 toggles (privacy, performance, gaming, debloat, services)\n- Hardware tab: bundled GPU driver, NVIDIA, AMD, and NVIDIA Profile Inspector\n- Dedicated Lucide icon per tweak toggle\n- Tweaks generated only from Sylvo-Optimize.ps1 with verification script"
 }
